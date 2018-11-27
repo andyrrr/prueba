@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudentApp</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="email">Email:</string>
+    <string name="carné">Carné</string>
+    <string name="tiempo">Tiempo:</string>
+    <string name="facebook_app_id">504371713384009</string>
+    <string name="fb_login_protocol_scheme">fb504371713384009</string>
+    <string name="fecha">Fecha de Nacimiento:</string>
+    <string name="scan">Scan</string>
+</resources>
